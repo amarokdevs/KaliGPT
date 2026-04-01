@@ -32,4 +32,4 @@ Let me cook 👨🏻‍🍳
 
 when ever kali gpt officialy release we will try to make it for all linux os 
 
-WE ARE RE-STARTED THE DEVELOPMENT AGAIN PROJECT AGIN
+We have restarted the project development again.
