@@ -30,4 +30,6 @@ Supports OpenAI, Google Gemini, Grok AI, DeepSeek — all with your own API key.
 
 Let me cook 👨🏻‍🍳
 
-when ever kali gpt officialy release we will try to make it for all linux os
+when ever kali gpt officialy release we will try to make it for all linux os 
+
+WE ARE RE-STARTED THE DEVELOPMENT AGAIN PROJECT AGIN
